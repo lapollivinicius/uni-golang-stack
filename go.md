@@ -19,3 +19,11 @@ go mod init <module_name>
 ```
 
 this is similar to python module, all files must be in this dir/path
+
+### file organization (web)
+
+- flat structure
+- per responsability
+- arq model (ddd, onion, hexagonal, microservices)
+- MVC (model, view, controller)
+
