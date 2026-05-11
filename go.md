@@ -27,3 +27,6 @@ this is similar to python module, all files must be in this dir/path
 - arq model (ddd, onion, hexagonal, microservices)
 - MVC (model, view, controller)
 
+## cmd line parameters
+
+use the pkg "flag"
